@@ -1,0 +1,5 @@
+opencv-python-headless>=4.5.0
+numpy>=1.19.0
+PyMuPDF>=1.18.0
+pytesseract>=0.3.10
+# Optional: paddlepaddle + paddleocr (may fail on some CPUs due to oneDNN)
